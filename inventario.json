@@ -1,0 +1,12 @@
+{
+  "arroz": {"cantidad": 800, "unidad": "g"},
+  "pollo": {"cantidad": 500, "unidad": "g"},
+  "cebolla": {"cantidad": 3, "unidad": "unidad"},
+  "tomate": {"cantidad": 4, "unidad": "unidad"},
+  "huevo": {"cantidad": 8, "unidad": "unidad"},
+  "leche": {"cantidad": 1.5, "unidad": "l"},
+  "harina": {"cantidad": 1000, "unidad": "g"},
+  "queso": {"cantidad": 300, "unidad": "g"},
+  "pan": {"cantidad": 6, "unidad": "unidad"},
+  "aceite": {"cantidad": 500, "unidad": "ml"}
+}
