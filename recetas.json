@@ -1,0 +1,80 @@
+[
+  {
+    "nombre": "Arroz con pollo",
+    "categoria": "almuerzo",
+    "tiempo": 30,
+    "ingredientes": [
+      {"nombre": "arroz", "cantidad": 200, "unidad": "g"},
+      {"nombre": "pollo", "cantidad": 250, "unidad": "g"},
+      {"nombre": "cebolla", "cantidad": 1, "unidad": "unidad"}
+    ]
+  },
+  {
+    "nombre": "Tortilla de cebolla",
+    "categoria": "cena",
+    "tiempo": 20,
+    "ingredientes": [
+      {"nombre": "huevo", "cantidad": 3, "unidad": "unidad"},
+      {"nombre": "cebolla", "cantidad": 1, "unidad": "unidad"},
+      {"nombre": "aceite", "cantidad": 20, "unidad": "ml"}
+    ]
+  },
+  {
+    "nombre": "Pan con tomate y queso",
+    "categoria": "desayuno",
+    "tiempo": 10,
+    "ingredientes": [
+      {"nombre": "pan", "cantidad": 2, "unidad": "unidad"},
+      {"nombre": "tomate", "cantidad": 1, "unidad": "unidad"},
+      {"nombre": "queso", "cantidad": 40, "unidad": "g"}
+    ]
+  },
+  {
+    "nombre": "Hotcakes caseros",
+    "categoria": "desayuno",
+    "tiempo": 20,
+    "ingredientes": [
+      {"nombre": "harina", "cantidad": 200, "unidad": "g"},
+      {"nombre": "huevo", "cantidad": 2, "unidad": "unidad"},
+      {"nombre": "leche", "cantidad": 0.3, "unidad": "l"}
+    ]
+  },
+  {
+    "nombre": "Sopa de tomate",
+    "categoria": "cena",
+    "tiempo": 25,
+    "ingredientes": [
+      {"nombre": "tomate", "cantidad": 3, "unidad": "unidad"},
+      {"nombre": "cebolla", "cantidad": 1, "unidad": "unidad"},
+      {"nombre": "aceite", "cantidad": 15, "unidad": "ml"}
+    ]
+  },
+  {
+    "nombre": "Pollo a la plancha",
+    "categoria": "almuerzo",
+    "tiempo": 20,
+    "ingredientes": [
+      {"nombre": "pollo", "cantidad": 200, "unidad": "g"},
+      {"nombre": "aceite", "cantidad": 10, "unidad": "ml"}
+    ]
+  },
+  {
+    "nombre": "Arroz simple",
+    "categoria": "almuerzo",
+    "tiempo": 18,
+    "ingredientes": [
+      {"nombre": "arroz", "cantidad": 150, "unidad": "g"},
+      {"nombre": "aceite", "cantidad": 5, "unidad": "ml"}
+    ]
+  },
+  {
+    "nombre": "Omelette de queso",
+    "categoria": "cena",
+    "tiempo": 12,
+    "ingredientes": [
+      {"nombre": "huevo", "cantidad": 2, "unidad": "unidad"},
+      {"nombre": "queso", "cantidad": 50, "unidad": "g"},
+      {"nombre": "aceite", "cantidad": 10, "unidad": "ml"}
+    ]
+  }
+]
