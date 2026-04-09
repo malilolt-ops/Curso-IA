@@ -1,12 +1,42 @@
 {
-  "arroz": {"cantidad": 800, "unidad": "g"},
-  "pollo": {"cantidad": 500, "unidad": "g"},
-  "cebolla": {"cantidad": 3, "unidad": "unidad"},
-  "tomate": {"cantidad": 4, "unidad": "unidad"},
-  "huevo": {"cantidad": 8, "unidad": "unidad"},
-  "leche": {"cantidad": 1.5, "unidad": "l"},
-  "harina": {"cantidad": 1000, "unidad": "g"},
-  "queso": {"cantidad": 300, "unidad": "g"},
-  "pan": {"cantidad": 6, "unidad": "unidad"},
-  "aceite": {"cantidad": 500, "unidad": "ml"}
+  "aceite": {
+    "cantidad": 470.0,
+    "unidad": "ml"
+  },
+  "arroz": {
+    "cantidad": 600.0,
+    "unidad": "g"
+  },
+  "cebolla": {
+    "cantidad": 0.0,
+    "unidad": "unidad"
+  },
+  "harina": {
+    "cantidad": 1000.0,
+    "unidad": "g"
+  },
+  "huevo": {
+    "cantidad": 8.0,
+    "unidad": "unidad"
+  },
+  "leche": {
+    "cantidad": 1.5,
+    "unidad": "l"
+  },
+  "pan": {
+    "cantidad": 4.0,
+    "unidad": "unidad"
+  },
+  "pollo": {
+    "cantidad": 250.0,
+    "unidad": "g"
+  },
+  "queso": {
+    "cantidad": 260.0,
+    "unidad": "g"
+  },
+  "tomate": {
+    "cantidad": 0.0,
+    "unidad": "unidad"
+  }
 }
